@@ -1,8 +1,13 @@
 html,body {
-	background-color: #2E0854;
+	background-color: #4A4A4A;
 }
 
 .jumbotron {
 	background-color:transparent;
 	color:#FFFFFF;
+}
+
+.navbar-brand {
+    margin-left: auto;
+    margin-right: auto;
 }
