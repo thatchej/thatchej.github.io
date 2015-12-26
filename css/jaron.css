@@ -1,5 +1,7 @@
 html,body {
 	background-color: #4A4A4A;
+	padding-top: 35px; /*25px for the height of the navbar + 10px for breathing room*/
+  	padding-bottom: 25px; /*25px for the height of the bottom navbar*/
 }
 
 .jumbotron {
