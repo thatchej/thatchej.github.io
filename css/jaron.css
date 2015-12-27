@@ -13,3 +13,8 @@ html,body {
 	margin: auto;
     width:50%
 }
+
+.bigicon {
+        font-size: 30px;
+        color: #FFFFFF;
+}
