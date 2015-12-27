@@ -9,7 +9,7 @@ html,body {
 	color:#FFFFFF;
 }
 
-.navbar-brand {
-    margin-left: auto;
-    margin-right: auto;
+.center-div{
+	margin: auto;
+    width:50%
 }
