@@ -4,7 +4,7 @@ function init() {
     // Basic options for a simple Google Map
     var mapOptions = {
         // How zoomed in you want the map to start at (always required)
-        zoom: 14,
+        zoom: 15,
 
         // The latitude and longitude to center the map (always required)
         center: new google.maps.LatLng(45.5200, -122.6819), // Portland
