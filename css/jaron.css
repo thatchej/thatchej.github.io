@@ -18,3 +18,8 @@ html,body {
     font-size: 30px;
     color: #FFFFFF;
 }
+
+#map {
+    width: auto;
+    height: auto;
+}
